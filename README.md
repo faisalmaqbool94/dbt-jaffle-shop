@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+First dbt project using the fictional e-commerce business data!
 
 ### Using the starter project
 
